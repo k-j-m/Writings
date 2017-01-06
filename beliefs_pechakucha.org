@@ -1,0 +1,134 @@
+1. Introduce the format
+
+Pecha Kucha (Japanese: chit-chat)
+
+20 slides, each shown for 20 seconds each
+6:40 total presentation time
+
+Designed to give communicate a lot of information in a very short
+time, and to NOT BE BORING.
+
+
+2. About me
+
+Mech. Eng by education
+
+EPDS for ~5 years
+
+
+2.1. About me
+
+Past few years have been steering away from traditional engineering
+and more towards software development.
+
+2.2. About me
+
+Now deeply interested in agile development: techniques, values and
+principles.
+
+
+3. Headline topic
+
+These are the things that I think about in the shower.
+
+
+4. Team performance > individual performance
+
+Teams get things done.
+
+
+4.1. How do we...
+1. Structure work so that it can be carried out by cohesive teams
+2. Create an environment where teams can form around emerging work
+3. Provide the conditions and coaching for teams to reach higher (and
+   higher and higher) levels of performance
+
+
+5. Self-direction and autonomy > compliance
+
+Better decisions
+Faster decisions
+Better engagement
+More effective action
+
+
+6. Focus > Multi-tasking
+
+Multi-tasking is bad, singular focus is good
+
+Both in terms of active WIP and wearing many-hats
+
+2 principles at work:
+
+6.1. Context switching (the biggie)
+
+6.2. Delayed time to complete
+
+6.3. Each hat carries an overhead and competes for resource
+
+
+7. Collaborative decisions > unilateral decisions
+
+Open & collaborative decision-making feels harder but gives better
+decisions.
+
+Don't just inform stakeholders. Have stakeholders make the decision!
+
+
+7.1
+
+Characteristics:
+- S l o w . . .
+- Scary to give up control and trust the group
+- Can be done badly: groupthink, bike-shedding, ...
+
++ More creative minds at work -> better decisions
++ Engaged stakeholders -> commitment to the solution
+
+
+8. The system > the individual
+
+
+The supposition is prevalent the world over that there would be no
+problems in production or service if only our production workers would
+do their jobs in the way that they were taught. Pleasant dreams. The
+workers are handicapped by the system, and the system belongs to the
+management.
+
+W. Edwards Deming, Out of the Crisis, page 134
+
+
+8.1
+
+Pygmalion effect - individuals develop the qualities projected on them
+by the system that they operate in.
+
+
+9. Intrinsic motivation > extrinsic motivation
+
+Autonomy
+
+Mastery
+
+Purpose
+
+
+9.1
+
+Super-powerful
+
+but super-fragile.
+
+
+10. Continuous Improvement > *
+
+A healthy continuous improvement process is *the most important thing*
+
++ Strive for excellence
++ Adapt to changing conditions
+
+
+10.1
+
+Given enough time, could reinvent lean principles and practices in
+their entirety.

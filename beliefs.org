@@ -1,0 +1,121 @@
+Team performance > individual performance
+
+Self-direction and autonomy > top-down compliance
+
+Focus > Multi-tasking
+
+Collaborative decisions > unilateral decisions
+
+The system > the individual
+
+Intrinsic motivation > extrinsic motivation
+
+Small batches > big batches
+
+Continuous improvement > *
+
+
+* Team performance > individual performance
+
+A high performing team of 10 Joe averages is better than a
+dysfunctional team of 10 superstars.
+
+Teams are the fundamental work-unit for almost everything that we do -
+very few major achievements are the result of a single lone genius
+(and what would the results be if they had a support-team structured
+around them to put rocket boosters on their efforts?)
+
+If teams are so important at carrying out work then we have two
+responsibilities:
+1. Create the environment where teams can naturally form as required
+   by emerging projects.
+2. Figure out the necessary conditions for a team to collectively
+   develop into a high-performing team.
+
+
+* Self-direction and autonomy > top-down compliance
+
+Delegating responsibility and decision-making as far down the
+organisation as possible is a recipe for fast, appropriate decisions
+and motivated, enabled individuals.
+
+Self-direction and autonomy fosters /commitment/ which is
+compliance's big brother. Compliance is when you don't break the
+30mph speed limit, commitment is when you would only go at 30mph if
+the speed limit were raised.
+
+
+* Focus > Multi-tasking
+
+Multi-tasking (and it's organisational twin, many-hatting) is really
+harmful and we need to avoid it at all costs.
+
+
+* Collaborative decisions > unilateral decisions
+
+Collaborative decision making results in more creative solutions
+pulled from a wider set of viewpoints. An open and transparent
+decision-making process builds trust in the outcomes. An inclusive
+decision-making process builds engagement.
+
+NB collaborative decision-making != consensus
+
+
+* The system > the individual
+
+Individual performance (and behaviour) is primarily driven by the
+system that they are operating in. A politically charged system
+drives political game-playing. An open, trusting environment
+drives responsible behaviour. An untrusting, controlling
+environment drives untrustworthy behaviour.
+
+See Pygmalion effect: https://en.wikipedia.org/wiki/Pygmalion_effect
+
+
+* Intrinsic motivation > extrinsic motivation
+
+Autonomy, mastery, purpose: the recipe for a highly motivated,
+engaged workforce.
+
+Super-powerful, but super-fragile.
+
+
+* Small batches > big batches
+
+The unintuitive power of small batch sizes.
+
+
+* Continuous improvement > *
+
+With continuous improvement done right, you could rediscover all of
+the above points.
+
+Continuous improvement is *hard* and takes training and practice, but
+ranks alongside compound interest as the most powerful force in the
+universe.
+
+
+* Book list
+
+I'm not making things up out of thin air.
+
+Measuring and Managing Performance in Organizations - Robert D. Austin
+Peopleware - Timothy Lister, Tom DeMarco
+The Fifth Discipline - Peter Senge
+The Lean Startup - Eric Ries
+Servant Leadership - Robert K. Greenleaf
+The Machine that Changed the World - Womack, Roos, Jones
+Out of the Crisis - W. Edwards Deming
+Lean Software Development - Mary and Tom Poppendieck
+Lean and Agile from the Trenches - Henrik Kniberg
+Scrum and XP from the Trenches - Henrik Kniberg
+Why Agile Works - Michael De La Maza, David Benz
+The Lean Enterprise - Jez Humble, Joanne Molesky, Barry O'Reilly
+Reinventing Organisations - Frederic Laloux
+Scrum Mastery - Geoff Watts
+Scrum, twice the work in half the time - Jeff Sutherland
+The Phoenix Project - Gene Kim, Kevin Behr, George Spafford
+Toyota Kata - Mike Rother
+Drive - Daniel Pink
+The Goal - Eliyahu Goldratt
+The Open Organization - Jim Whitehurst

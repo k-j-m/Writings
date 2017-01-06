@@ -1,0 +1,263 @@
+* Introduction
+
+
+I've been tormenting myself over how to deal with annual goal setting.
+
+How to do it without disincentivising collaboration within the team?
+=> I can't do <task x> because it isn't in my objectives. 
+
+How to do it without creating conflicts of interest between
+individuals and the EPDS project?
+=> Please don't drop <feature x>! It is listed in my objectives and
+I can get a really good grade for it!
+
+How to do it without raising a barrier to individual and team
+autonomy?
+=> I recognise that  <task x> is a good thing - it is for the greater
+good of the project - but having it bound to a performance rating
+makes it feel like a chore that I would never choose to do.
+
+How to do it without raising a barrier to individual and team
+purpose?
+=> I only do <task x> because it is listed in my objectives: what do I
+care what the higher purpose of it is?
+
+How to do it without raising a barrier to innovate and experiment?
+=> If I'm getting graded on this there's no chance that I'm going to
+experiment with some hocus pocus new approach.
+
+How to do it without accidentally creating a niche for hidden agendas
+to sneak in.
+=> If <Mr. Pink> carries on promoting <initiative x> then it might
+undermine one of my performance measures. I'm going to call
+<Mr. Black> and nip this one in the bud. (note: we're all ethical
+creatures, but conflicts of interest are real).
+
+How to do it without the process maintenance costing more than the
+benefit?
+
+>> side question: what are the purposes of goals / objectives /
+gradings?
+
+
+How to do it in a way that doesn't risk dysfunction?
+
+     #+BEGIN_QUOTE
+     When you try to measure performance, particularly the
+     performance of knowledge workers, you're positively courting
+     dysfunction.
+     Tom DeMarco, Timothy Lister - foreword to "Measuring and
+     Managing Performance in Organizations"
+     #+END_QUOTE
+
+=> Hey guys, if we all start exaggerating our story-point estimates we
+can inflate our metrics and all get amazing gradings!
+
+
+How to do it in a way that is measurable?
+=> How am I meant to measure customer satisfaction anyway?
+
+
+How to make it measurable in such a way that the metrics can be
+realistically mapped to gradings?
+=> What do I need to do to make the grade? What kind of Kafkaesque
+nightmare is this??
+
+
+This is a minefield!
+
+
+* Primary Purpose
+
+To serve Rolls-Royce
+
+by...
+
+  Helping the design community to make faster, better-informed, more
+  creative decisions using information that would not have been
+  previously available to them.
+
+  by...
+
+    delivering capability that automates non-creative engineering
+    processes and improves the availability of data and information for
+    the purposes of decision-making
+
+  and...
+
+    supporting the deployment + uptake of new and existing tools, methods
+    & processes
+
+  and...
+
+    the sustained pursuit of improvements in our ability to achieve the
+    pervious points.
+
+
+
+* Goal-based
+
+** Goal 1
+
+Contribute to the ongoing success of the EPDS project
+
++ Deploying new capability to the PD community
++ Supporting the uptake of new and existing capability by the PD
+  community
++ Continuously improving our ability to carry out the previous two
+  points
+
+
+Deliver valued capability to the PD community as measured by
++ Number of users of EPDS*
++ Number of projects that EPDS* is actively used on
++ Number of projects that EPDS* is not actively used on
++ Customer satisfaction survey (is that a good idea?)
+
+*and derived tools - eg subsystem specific toolsets
+
+
+*** Sub-goal 1.1
+
+Develop a culture of continuous improvement both within the
+development team and extending further out into the business.
+
+as measured by 
++ the number of *closed* EPDS retrospective actions
++ the level of ubiquity of DaVinci retrospective meetings
+
+
+*** Sub-goal 1.1
+
+Improve the /quality/ of the EPDS project by learning and applying
+software design principles.
+
+as measured by
++ release-readiness rating at the end of each iteration
+...
+
+
+*** Sub-goal 1.1
+
+Improve relationships and working practices
++ with customers
++ with suppliers
++ between customers and suppliers
+
+as measured by:
++ survey?
++ something, something tracked issues? visibility of work queues?
+
+
+*** Sub-goal 1.4
+
+Drive the usage of the EPDS toolset into new 'markets': new contexts
+where extra value can be derived from already-completed work.
+
+as measured by:
++ the number of active users /not/ working on whole-engine cycle
+  design
+
+
+** Goal 2
+
+Contribute to the success of VEDS by improving the
+collective-effectiveness of the VEDS projects. 
+
++ Increasing collaboration
++ Sharing good practice (technical and process)
+
+
+*** Sub-goal 2.1
+
+Improve intra-VEDS awareness of EPDS processes, technical content
+and predicted technical direction.
+
+
+
+
+** Goal 3
+
+Raise the level of technical and process excellence across the
+company in the field of design system development
+
+
+*** Sub-goal 3.1
+
+/Home Team/ personal and professional development. Charity begins at
+home: the ruthless pursuit of improvements (skills and process)
+within the team provides experience and credibility for driving
+improvements further out in the business.
+
+
+*** Sub-goal 3.2
+
+Provide a positive pressure for improvement within our sphere of
+influence in the business.
+
+
+* Role-oriented
+
+** Role 1 - developer
+
+Execute EPDS development work.
+
+Participate in the definition and estimation of development work.
+
+Participate in the process through which customer requirements are discovered, evaluated, estimated and prioritised.
+
+Identify pain points and bottlenecks and to propose and enable related process improvements.
+
+Promote learning within the team by actively including other team members in your work.
+Promote learning within the team by actively including yourself in the work of other team members.
+
+Promote learning INTO the team by creating a shared learning plan. (Responsibility shared with other team-members,
+project management and resource management. Both dimensions of the matrix need to be well aligned for any useful
+training/learning to happen).
+Promote learning INTO the team by executing the learning plan.
+
+Something something leading system-wide technical change
+
+
+** Role 2 - care-taker scrum master
+
+Help the team to follow the rules of scrum.
+
+Facilitate the following meetings:
++ daily scrums
++ retrospectives
++ sprint reviews
+Not included:
++ planning meeting (meeting owned by product owner)
+
+Responsibilities not included:
++ Removing blockers.
+
+
+** Role 3 - customer liaison
+
+
+
+** Role 4 - ?????
+
+End-to-end development process (inception, planning, prioritisation, development, v&v, delivery)
+
+
+* Concrete Objectives
+
+** FPE objectives
+
+I don't know enough to say what these might be.
+
+
+** EPDS objectives
+
+Frequency of user-facing releases
+
+Number of users
+
+Usage on projects (how can you measure that?)
+
+Customer satisfaction (survey?)
+
+

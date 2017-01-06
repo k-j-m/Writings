@@ -1,0 +1,225 @@
+Why Silicon Valley's 'Fail Fast' Mantra Is Just Hype
+http://www.forbes.com/sites/robasghar/2014/07/14/why-silicon-valleys-fail-fast-mantra-is-just-hype/
+
+Article doesn't seem to have much constructive to offer than saying
+"people don't actually like to fail". Talks only about top-level
+failure (mainly of startups) rather than lower level experimentation
+and learning.
+
+
+3 Ways Companies Can Encourage Smart Risk Taking
+http://www.entrepreneur.com/article/238543
+
+Makes the distinction between just rolling the dice and intelligent
+risk taking. Describes three principles for improving risk taking
+
+1. The institutional 'yes'
+2. Never stop innovating (this is a bit light on content). One useful
+   point is htat big organisations struggle for innovation because
+   they focus more on execution than innovation.
+3. Reward insightful experiments
+
+This doesn't mean, of course, that just any failure or mistake is
+encouraged or celebrated. But if a team is operating within strategic,
+commercial, ethical and legal frameworks and avoids re-creating old
+mistakes, a failure can and should be celebrated for the learning such
+experimentation offers. 
+
+
+Better Ideas Through Failure
+http://www.wsj.com/news/articles/SB10001424052970204010604576594671572584158
+
+Not terribly interesting.
+
+
+Tata Innovista 2013 receives record participation
+http://www.tata.com/article/inside/VWQX0UJo!$$$$!xI=/TLYVr3YPkMU=
+
+
+
+The Institutional Yes
+https://hbr.org/2007/10/the-institutional-yes/ar/1
+
+Interview with Amazon's Jeff Bezos on how they foster a culture of
+innovation. One interesting point is the emphasis on playing the long
+game for a number of bets, going out years in the future. You need to
+have vision beyond just the current quarter.
+
+"If we can get this to work it will be big."
+
+At the same time, you have to recognize that there are times when you
+can’t put a toe in the water; you have to leap in with both feet. You
+have to say, “This is going to be expensive—and that means we’re going
+to have to make it work.” You allow that you might take lots of twists
+and turns on the details, but you really commit yourself to the
+objective. And by the way, it’s very fun to have the kind of culture
+where people are willing to take these leaps—it’s the opposite of the
+“institutional no.” It’s the institutional yes. People say, “We’re
+going to do this. We’re going to figure out a way.”
+
+
+We Should Stop Telling Entrepreneurs To 'Fail Fast'
+http://www.businessinsider.com/why-fail-fast-isnt-good-advice-2013-11?IR=T
+
+When the professional services giant [PwC] did a massive study looking at
+what separates the most innovative companies from the rest of the
+pack, one of the most important attributes was what Shelton calls a
+"Darwinian engine," defined as a formalized process for innovation,
+and an ability to rapidly try and test out new ideas and discard the
+ones that don't work. But don't call it "failing," he warns.
+
+Instead, innovation should follow a more scientific process. "It's
+about having a hypothesis, and testing it," he says. "If the results
+don't match your hypothesis, you've got data. If the results do match
+your hypothesis, then you have a discovery." 
+
+
+Here’s what ‘fail fast’ really means
+http://venturebeat.com/2015/03/15/heres-what-fail-fast-really-means/
+
+Fail fast isn’t about the big issues, it’s about the little ones. It’s
+an approach to running a company or developing a product that embraces
+lots of little experiments with the idea that some will work and grow
+and others will fail and die.
+
+
+Fail Fast
+http://martinfowler.com/ieeeSoftware/failFast.pdf
+
+Written from a code perspective, not an organisational perspective.
+
+
+Fail Fast, Fail Often, Fail Everywhere
+http://www.newyorker.com/business/currency/fail-fast-fail-often-fail-everywhere
+
+More of a casual commentary piece - not a lot interesting to draw on.
+
+
+Failing by Design
+https://hbr.org/2011/04/failing-by-design
+
+I’m not going to argue that failure per se is a good thing. Far from
+it: It can waste money, destroy morale, infuriate customers, damage
+reputations, harm careers, and sometimes lead to tragedy. But failure
+is inevitable in uncertain environments, and, if managed well, it can
+be a very useful thing. Indeed, organizations can’t possibly undertake
+the risks necessary for innovation and growth if they’re not
+comfortable with the idea of failing.
+
+An alternative to ignoring failure is to foster “intelligent failure,”
+a phrase coined by Duke University’s Sim Sitkin in a terrific 1992
+Research in Organizational Behavior article titled “Learning Through
+Failure: The Strategy of Small Losses.”
+
+Principle 1: Decide what success and failure would look likebefore you
+launch an initiative.
+
+Principle 2: Convert assumptions into knowledge.
+
+Principle 3: Be quick about it—fail fast.
+
+Principle 4: Contain the downside risk—fail cheaply.
+
+Principle 5: Limit the uncertainty.
+
+Principle 6: Build a culture that celebrates intelligent failure.
+
+Principle 7: Codify and share what you learn.
+
+
+
+Why Silicon Valley Loves Failures
+http://www.inc.com/eric-markowitz/brilliant-failures/why-silicon-valley-loves-failures.html
+
+Why You Need to Stop Trying to 'Fail Fast' 
+http://www.entrepreneur.com/article/248565
+
+
+Fail Fast
+http://c2.com/cgi/wiki?FailFast
+
+
+Moving Enterprise Innovation Beyond Failing Fast
+https://www.thoughtworks.com/insights/blog/why-fail-fast-philosophy-does-not-work
+
+[QUOTE]
+The book [The Lean Startup] has ample content worth studying, but
+almost every week I meet business leaders who have concluded that
+simply giving teams permission to “fail fast” is the secret to
+unlocking product innovation.
+
+That’s too bad, because “fail fast” when taken literally is easily one
+of the least useful concepts for real life enterprise innovators.  The
+phrase “learn quickly and think well” is a far more powerful mantra
+for would-be innovation leaders.   
+[/QUOTE]
+
+The idea here is that a shotgun style approach to innovation is not
+time or cost effective - you need to be far more scientific than
+that, treating each mini-venture as a scientific experiment and
+learning opportunity.
+
+"Learn quickly and think well"
+
+
+Fail Often, Fail Fast and Fail Cheap, But Do Fail
+http://thechanger.org/resources/fail-often-fail-fast-and-fail-cheap-do-fail
+
+Not much substance in this one.
+
+
+Fail Fast, Fail Cheap
+http://www.bloomberg.com/bw/stories/2007-06-24/fail-fast-fail-cheap
+
+[QUOTE]
+The classic mindset is to try to get a business plan or product 95%
+right before taking action. This is great in theory, but it rarely
+works. Why? Because as soon as you ship the product you immediately
+recognize its fatal flaws. By then, it's often too late to change the
+packaging, the marketing, or the product itself.
+[/QUOTE]
+
+[QUOTE]
+I am not encouraging you to fail. Rather, I am stating the fundamental
+truth that you can't know the answers before you start. It's foolish
+to assume you know things that it's not possible to know.
+[/QUOTE]
+
+Don’t Promote Failure; Promote ‘Experiments
+http://skybox.cues.org/2014/08/25/experiments-failure-university/
+
+Not much in here except from stressing the importance of using the
+right language: experiment vs failure.
+
+
+The agile concept ‘fail fast’ gets bad press but is misunderstood
+http://www.information-age.com/industry/software/123460434/agile-concept-%E2%80%98fail-fast-gets-bad-press-misunderstood
+
+Short blog post that emphasises the rapidity of feedback. The whole
+idea of 'fail fast' is to give many opportunities for rapid feedback
+and learning.
+
+
+Why fail fast when you can learn? 
+http://www.cio.co.uk/blogs/some-inconvenient-truths/why-fail-fast-when-you-can-learn-3628810/
+
+[QUOTE]
+But there is a lot more to the learn fast concept than just semantics;
+as well as shifting the discussion from the negative of failure to the
+positive of learning, it can also change the entire focus and approach
+to designing and building new things. When learning fast becomes a key
+requirement of a new solution, pilot, test or proof of concept, it
+challenges the team to think about how to make learning points an
+inherent part of the design process.
+[/QUOTE]
+
+
+How GE Applies Lean Startup Practices
+https://hbr.org/2014/04/how-ge-applies-lean-startup-practices/
+
+
+
+The Biggest Startup: Eric Ries And GE Team Up To Transform
+Manufacturing
+http://www.gereports.com/post/82723688100/the-biggest-startup-eric-ries-and-ge-team-up-to/
+

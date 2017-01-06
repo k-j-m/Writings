@@ -1,0 +1,55 @@
+Core philosophy
+
+1) The process must be designed to serve the employee first and the company (incumbent HR processes) second.
+2) A one-size-fits-all process designed by a centralised HR function cannot meet the requirements of a diverse organisation. However, a decentralised (bespoke) process has a fighting chance.
+3) We are free to design our own process provided that we satisfy all legal and contractual obligations to HR.
+
+
+
+Principles
+
+These are core principles that shouldn't be broken... until we have experience of how they actually play out in practice.
+
+An individual's performance is indivisible from the team performance. Who is more important to the cake: the eggs, the flour or the sugar? Any attempt to introduce individually measured performance rankings into a team-oriented or collaborative environment a) introduces conflicts of interests between team members, b) serves as a blocker for increased accountability for project outcomes (individual objectives present a wall to hide behind that need not exist).
+
+Stakeholders outside the team boundary are not in a position of authority to instruct the team on /how/ to perform their duties. The team has a dual responsibility to a) seek advice from those with experience/expertise, b) seek input from those who will be affected by any decisions. This is commonly known as the /advice process/. Where people sit, what time they come in/out, how they dress is not a management concern. The team should be trusted as a self-regulating system.
+
+Task uncertainty is an inherent part of modern knowledge work and is a crucial ingredient for creative and innovative work. The system will not require long-term targets that the employee is contractually bound to. If targets are used (they will be) they will be used informally for their inherent benefit and not as a control mechanism. Individuals and teams will have the freedom and responsibility to chart their own course through the uncertain terrain that lies between them and their destination.
+
+Innovation is driven by many small failures. The process must not stigmatise or punish failure since this is a clear signal that innovative work will not be tolerated in our organisation. Nor should the process encourage failures - it must simply accept them.
+
+In collaborative work absolute alignment of those involved is crucial. This will be enabled through clear visibility of goals for all involved (team members, customers, project leads, resource managers). The 'traditional' approach of goals/objectives being agreed strictly between employee and manager forms the basis of a system of specialisation and secret-keeping.
+
+Employee development is important, but it shouldn't go anywhere near performance appraisals! The slightest connection to any kind of career-influencing grading destroys the trust that is needed to have open and honest dialogue about development issues. Employee development will be regulated through informal (trust based) structures and will rely on all individuals' drive and capability to learn new skills and seek new responsibilities.
+
+Agile software/product development can be characterised by the phrase 'sense and respond'. Any kind of closed-loop system is heavily dependent on FEEDBACK. Multiple feedback points will be designed into the work environment and will absorb many of the day-to-day responsibilities of the traditional employee-manager relationship. The value of feedback diminishes with the time-delay from the event so many different feedback points are needed operating on different cycle times.
+
+All team members are equal. When operating within the bounds of a project team, everyone shares equal responsibility for the fate of the project. Contractors are not excluded but are regarded as core team-members - no excuses!
+
+Individual recognition is important but shouldn't be restricted to formal annual reviews. High performers are only high performers if the team thinks so too.
+
+Catching performance slumps early is important. Feedback mechanisms should be put in place to catch and resolve issues quickly. This should be an informal trust-based process wherever possible, with management playing a supporting role and (where absolutely needed) serving as an escalation route. 
+
+An evolutionary approach is needed. Because of the need to interface with a broader organisation a wild new strategy will not be an option. It must be possible for others in the organisation to opt in or subscribe to the new process for the duration of their involvement in the agile project. If this condition is not met then there will be significant impediments to onboarding further down the line.
+
+
+
+Practices
+
+These are the things that we will actually do to implement the principles listed above.
+
+
+
+
+Discussion points
+
+Strong x-functional teams, weak resource groups.
+
+
+
+However, it is noted that short-term goals are 
+
+
+
+
+The system will embrace this reality by *not* stipulating traditional SMART objectives that the employee is contractually bound to - particularly on yearly timescales! Rather, employees will subscribe to the goals of the projects that they are participating in, or the system that they're operating in (if a part-time specialist operating in a larger workflow). It is worth noting that this approach gets diluted significantly with the number of projects that an employee subscribes to concurrently. This is counteracted by limiting multi-projecting, possibly by implementing strict WIP-limits along with timeboxed periods of intensive project support.

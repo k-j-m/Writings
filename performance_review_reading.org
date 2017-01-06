@@ -1,0 +1,446 @@
+Rethinking Performance Assessment
+https://hbr.org/2011/04/assessing-performance-from-ind/
+
+[QUOTE]
+This assumes that an individual’s responsibility is simply to do a
+“good job.” In hierarchical organizations, the standard for gauging an
+individual’s performance is typically whether an employee has met
+specific objectives. As a corollary, the unwritten rule among
+colleagues in most organizations today assumes individual autonomy —
+“you do your job and I’ll do mine.” Peer relationships are typically
+characterized by polite conflict avoidance, rather than the challenge,
+debate, and openness to critique that are required for collaboration.
+[/QUOTE]
+
+performance appraisals
+http://www.businessballs.com/performanceappraisals.htm
+
+[QUOTE]
+Managers and appraisees commonly dislike appraisals and try to avoid
+them. To these people the appraisal is daunting and
+time-consuming. The process is seen as a difficult administrative
+chore and emotionally challenging. The annual appraisal is maybe the
+only time since last year that the two people have sat down together
+for a meaningful one-to-one discussion. No wonder then that appraisals
+are stressful - which then defeats the whole purpose.
+
+There lies the main problem - and the remedy.
+
+Appraisals are much easier, and especially more relaxed, if the boss
+meets each of the team members individually and regularly for
+one-to-one discussion throughout the year.
+[/QUOTE]
+
+
+[QUOTE]
+Developing the whole-person is also an important aspect of modern
+corporate responsibility, and separately (if you needed a purely
+business-driven incentive for adopting these principles), whole-person
+development is a crucial advantage in the employment market, in which
+all employers compete to attract the best recruits, and to retain the
+best staff.
+[/QUOTE]
+
+[QUOTE]
+It is sometimes fashionable in the 'modern age' to dismiss traditional
+processes such as performance appraisals as being irrelevant or
+unhelpful. Be very wary however if considering removing appraisals
+from your own organisational practices. It is likely that the critics
+of the appraisal process are the people who can't conduct them very
+well. It's a common human response to want to jettison something that
+one finds difficult. Appraisals - in whatever form, and there are
+various - have been a mainstay of management for decades, for good
+reasons.
+
+Think about everything that performance appraisals can achieve and contribute to when they are properly managed, for example:
+
++ performance measurement - transparent, short, medium and long term
++ clarifying, defining, redefining priorities and objectives
++ motivation through agreeing helpful aims and targets
++ motivation though achievement and feedback
++ training needs and learning desires - assessment and agreement
++ identification of personal strengths and direction - including unused hidden strengths
++ career and succession planning - personal and organisational
++ team roles clarification and team building
++ organisational training needs assessment and analysis
++ appraisee and manager mutual awareness, understanding and relationship
++ resolving confusions and misunderstandings
++ reinforcing and cascading organisational philosophies, values, aims, strategies, priorities, etc
++ delegation, additional responsibilities, employee growth and development
++ counselling and feedback
++ manager development - all good managers should be able to conduct appraisals well - it's a fundamental process
+the list goes on..
+[/QUOTE]
+
+Whoah, that's an awful lot of stuff that we're trying to do within
+the one session. But actually, yes they're all valid. We need a
+framework that ticks all of these.
+
+This article gives quite a bit of food for thought. It describes well
+what some of the plus sides are of performance reviews in general.
+
+
+Why GE had to kill its annual performance reviews after more than three decades
+http://qz.com/428813/ge-performance-review-strategy-shift/
+
+[QUOTE]
+The company got rid of formal, forced ranking around 10 years ago. But
+now, GE’s in the middle of a far bigger shift. It’s abandoning formal
+annual reviews and its legacy performance management system for its
+300,000-strong workforce over the next couple of years, instead opting
+for a less regimented system of more frequent feedback via an app. For
+some employees, in smaller experimental groups, there won’t be any
+numerical rankings whatsoever.
+[/QUOTE]
+
+[QUOTE]
+“It existed in more or less the same form since I started at the
+company in 1979,” GE’s head of human resources, Susan Peters, tells
+Quartz. “But we think over many years it had become more a ritual than
+moving the company upwards and forwards.”
+[/QUOTE]
+
+[QUOTE]
+“It’s a process that looks in the rear view mirror, that’s focused on
+what you’ve done a year ago. That just isn’t current with how I think
+we’re working and how many of the employees that we’re looking to
+attract or grow have been raised.”
+[/QUOTE]
+
+[QUOTE]
+Each employee has a series of near-term goals, or “priorities.”
+Managers are expected to have frequent discussions, called
+“touchpoints,” on progress toward those goals and note what was
+discussed, committed to, and resolved. The app can provide summaries
+on command, through typed notes, photographs of a notepad, or even
+voice recordings. The focus isn’t on grading how well people are
+doing, but on constant improvement.
+[/QUOTE]
+
+[QUOTE]
+The shift in how GE employees think about and track their performance
+mirrors the broader transition underway at the company to
+substantially simplify its business. “FastWorks” is a successor in
+many ways to Six Sigma and consciously mimics the way that companies
+in Silicon Valley work. There’s a focus on rapid and frequent
+experimentation, learning from the market, only funding projects that
+prove themselves, and acceptance and willingness to move on from
+failures.
+[/QUOTE]
+
+Note: search for GE FastWorks
+
+[QUOTE]
+As much as researchers and many employees might applaud the decision,
+it doesn’t mean it’s going to be easy. There’s a reason reviews have
+stuck around for so long, and it’s hard to overemphasize how
+entrenched the annual review has become. It’s the way most were raised
+as employees, a huge part of their workload, and a comfortable
+framework to administer and to defend pay, promotion, and firing
+decisions. Adobe’s Morris says that one of her biggest obstacles was
+actually convincing her own people that this could work.
+[/QUOTE]
+
+[QUOTE]
+The harshest critics of performance reviews and ratings argue that
+numerical rankings and pay differentiation are perhaps the most
+damaging parts of the system, and that any regime that preserves them
+can’t hope to truly change. And many companies like the idea of
+getting rid of reviews and rankings, but struggle to follow through.
+[/QUOTE]
+
+
+
+Checking in on the Performance Review
+https://www.cultureamp.com/zine/004-checking-in-on-the-performance-review.html
+
+[QUOTE]
+In 2012, Morris and Adobe instituted a “check-in” method. With the
+check-in procedure, employees and managers discuss goals and tasks in
+an ongoing manner, rather than one time a year.
+
+Morris believes constant feedback in real time helps direct employees
+while they’re working on the task at hand, and that people are more
+effective when they know where they stand at all times.
+[/QUOTE]
+
+[QUOTE]
+In addition to the apparent time/energy/money-suck that these companies believe performance reviews are, some believe the information obtained is also inaccurate.
+
+“It turns out this mistrust is well-founded,” says Rose
+Mueller-Hanson, HR practice leader at the CEB. “Our research shows
+that individual performance ratings have absolutely zero correlation
+with actual business results. Many of our members and clients have
+started to really question the return they are getting from all this
+work.”
+[/QUOTE]
+
+[QUOTE]
+“Personally, I like a hybrid model of ongoing feedback, but more
+formal mid-year and end-of-year reviews,” Singer says. “If you look in
+the mirror everyday you can't really tell if you have lost or gained
+weight. Same with reviews, if they are too often they will start to
+look the same - I suspect companies will figure that out soon.
+[/QUOTE]
+
+[QUOTE]
+“Compensation (pay increases, bonuses, promotions) are typically an
+annual event based on the traditional review method,” he says. “This
+could really start to take up a lot of managers and HRs time. None of
+the articles I have read so far have addressed how pay works in this
+new structure.”
+[/QUOTE]
+
+
+Wikipedia
+https://en.wikipedia.org/wiki/Performance_appraisal
+
+Team Vs. Individual Performance Appraisals
+http://smallbusiness.chron.com/team-vs-individual-performance-appraisals-20040.html
+
+Not too much substance, but starts to tease at the relation between
+day to day working behaviours and the performance appraisal method. I
+wonder if there is a cause-effect relation between the appraisal and
+the working practices. Does an individual-only performance system
+bias the workplace to individual-only working patterns?
+
+
+
+How to Document a Performance Review
+https://hbr.org/2015/05/how-to-document-a-performance-review
+
+More useful for describing how to execute a performance review in
+terms of how to phrase and record statements, but no real content on
+the review framework itself.
+
+
+Involving employees in meeting corporate objectives
+http://businesscasestudies.co.uk/taylor-woodrow/involving-employees-in-meeting-corporate-objectives/introduction.html#axzz3vOLAu7PV
+
+[QUOTE]
+Effective Human Resource Development (HRD) involves matching an
+organisation's needs with the needs of its employees. 
+[/QUOTE]
+
+Does this imply that all objectives should have a 'why' element to
+them? "Do X because Y." There might be some mileage in that.
+
+[QUOTE]
+Like people, organisations have distinguishing characteristics. These
+usually feature in an organisation's vision and culture.
+[/QUOTE]
+
+Who is our 'organisation'? Rolls-Royce? DaVinci? ADRC? DSE? This is a
+useful excercise - who are 'we' and what are our collective goals
+beyond just project delivery. All objectives should contribute to
+project delivery in a way that is compatible with these broader goals.
+
+The 'Trusted to Deliver Excellence' motif could be a useful
+tool. Despite sounding fantastic, by itself it is quite
+meaningless. But it leaves room to add on a local interpretation of
+each of the words.
+
+[QUOTE]
+Taylor Woodrow believes that the effective management of individual
+performance rests on managing the performance cycle, which is an
+ongoing process of performance planning, support and review.
+[/QUOTE]
+
+They then prattle on about performance related pay in this
+case-study - I'm completely unreceptive to arguments that assume that
+people are singularly motivated by the carrot of pay rises (or the
+stick of missing out).
+
+
+Performance evaluations and Scrum.
+http://scrumology.com/performance-evaluations-and-scrum/
+
+Not much concrete original material other than an anecdote of
+microsoft effectively shutting down during bonus season.
+
+Links to two other pages:
++ Ester Derby blog posts
++ Get Rid of the Performance Review! - Samuel Culbert
+
+
+Ester Derby - blog posts
+http://www.estherderby.com/tag/annual-reviews
+
+Applying “the simplest thing that could possibly work” principle
+http://www.estherderby.com/2009/02/applying-the-simplest-thing-that-could-possibly-work-principle.html
+
+Discussion on merit pay. Asks what business need merit pay is
+intended to solve and asserts that unless you have a cast-iron answer
+to that question it is impossible to compare merit pay against a
+multitude of other solutions. 
+
+
+Praise Sandwich Tastes Icky, II
+http://www.estherderby.com/2009/05/praise-sandwich-tastes-icky-ii.html
+
+Relates to execution of feedback, not the framework of performance
+reviews. Out of scope.
+
+
+Performance Without Appraisal: Addressing the Most Common Concerns
+http://www.estherderby.com/2010/07/performance-without-appraisal-addressing-the-most-common-concerns.html
+
+Good post. Runs through many of the 'but we need it for <X>'
+arguments.
+
+[QUOTE]
+When organizations adopt Scrum, sooner or later they bump up against
+the problems caused by asking people to work collaboratively and then
+measuring and rewarding them for individual effort.
+[/QUOTE]
+
+Ahh, this is an important one... a real blocker that we will need to
+get around. Go talk to Osys/CDS and see how they do reviews for scrum
+teams.
+
+
+The Pay Off in Merit Pay (Not)
+http://www.estherderby.com/2009/01/the-pay-off-in-merit-pay-not.html
+
+Generally good, short post. References some work of this Pfeffer chap
+who also has a book.
+
+One point that I noted...
+
+[QUOTE]
+4. I am not saying people don’t need feedback on their performance at
+   work. People need feedback–which is information about performance,
+   not evaluation–on a frequent basis. The more we can design systems
+   where the feedback comes from the work, the better (e.g., build
+   lights, green bar/red bar test frames). Peer feedback and feedback
+   from managers are crucial for improving performance.
+[/QUOTE]
+
+I'm a big fan of this. The more that we can build feedback into the
+work itself, the better.
+
+
+
+How to do Agile performance reviews
+http://scrumology.com/how-to-do-agile-performance-reviews/
+
+Not much original content, but links to three other good articles.
+
+Agile Performance Reviews - Jeff Sutherland
+Performance Management for Agile People - Alan Atlas
+Unjust Deserts - Mary Poppendieck
+
+
+Agile Performance Reviews
+https://www.scruminc.com/agile-performance-reviews/
+
+
+Performance Management for Agile People
+http://www.agileconnection.com/article/performance-management-agile-people
+
+Unjust Deserts
+http://www.poppendieck.com/pdfs/Compensation.pdf
+
+How Performance Reviews Can Harm Mental Health
+http://www.wsj.com/articles/how-performance-reviews-can-harm-mental-health-1445824925
+
+Get Rid of the Performance Review!
+http://www.wsj.com/articles/SB122426318874844933
+
+I'm not too convinced that this is a very useful article. It rails
+against what seems to be a fairly extreme for of performance review -
+not what we are actually using.
+
+He introduces the alternative of Performance /Previews/, which are
+regular, forward (not backward) looking sessions aimed at using the
+worker-manager relationship to continually try to improve
+effectiveness. If these sessions are done regularly then there is no
+need for an end of year review, or at least at the end of year review
+it is the worker-manager pairing that is under review.
+
+[QUOTE]
+OBJECTIVITY IS SUBJECTIVE
+Most performance reviews are staged as "objective" commentary, as if
+any two supervisors would reach the same conclusions about the merits
+and faults of the subordinate. 
+[/QUOTE]
+
+[QUOTE]
+What's more, people don't want to pay a high price for acknowledging
+their need for improvement -- which is exactly what they would do if
+they arm the boss with the kind of personal information he or she
+would need to help them develop. It could all come back to haunt them
+in the performance review. No wonder the developmental discussions the
+boss wants to inject at the time of a performance review so often get
+categorized by subordinates as gun-to-the-head intimidation requiring
+false acquiescence, lip-service agreement and insincere,
+appearance-correcting actions.
+[/QUOTE]
+
+[QUOTE]
+IMMORALITY OF JUSTIFYING CORPORATE IMPROVEMENT
+I believe it's immoral to maintain the facade that annual pay and
+performance reviews lead to corporate improvement, when it's clear
+they lead to more bogus activities than valid ones. Instead of
+energizing individuals, they are dispiriting and create
+cynicism. Instead of stimulating corporate effectiveness, they lead to
+just-in-case and cover-your-behind activities that reduce the amount
+of time that could be put to productive use. Instead of promoting
+directness, honesty and candor, they stimulate inauthentic
+conversations in which people cast self-interested pursuits as
+essential company activities.
+[/QUOTE]
+
+The Trouble With Grading Employees
+http://www.wsj.com/articles/the-trouble-with-grading-employees-1429624897
+
+
+Agile Performance Reviews
+http://www.infoq.com/articles/agile-performance-reviews
+
+
+The Ultimate Guide to Agile Performance Management
+http://www.cognology.com.au/learning_center/agile-performance-management/
+
+
+The Trouble With Performance Reviews
+http://www.bloomberg.com/bw/stories/2009-06-30/the-trouble-with-performance-reviewsbusinessweek-business-news-stock-market-and-financial-advice
+
+
+Kill Your Performance Ratings
+http://www.strategy-business.com/article/00275?gko=c442b
+
+
+The Case Against Performance Reviews
+http://www.theatlantic.com/business/archive/2014/01/the-case-against-performance-reviews/283402/
+
+
+The Best and the Rest: Revisiting the Norm of Normality of Individual
+Performance
+http://www.hrma.ca/wp-content/uploads/2012/11/rb-the-best-and-the-rest.pdf
+
+
+Microsoft’s Lost Decade
+http://www.vanityfair.com/news/business/2012/08/microsoft-lost-mojo-steve-ballmer
+
+
+Microsoft Kills Its Hated Stack Rankings. Does Anyone Do Employee
+Reviews Right?
+http://www.bloomberg.com/bw/articles/2013-11-13/microsoft-kills-its-hated-stack-rankings-dot-does-anyone-do-employee-reviews-right
+
+
+There’s No Such Thing as Constructive Criticism
+https://hbr.org/2011/11/theres-no-such-thing-as-constr.html
+
+
+Why Adobe Abolished The Annual Performance Review And You Should, Too
+http://www.businessinsider.com/adobe-abolished-annual-performance-review-2014-4?IR=T
+
+
+In big move, Accenture will get rid of annual performance reviews and
+rankings
+https://www.washingtonpost.com/news/on-leadership/wp/2015/07/21/in-big-move-accenture-will-get-rid-of-annual-performance-reviews-and-rankings/
+
+
+The Folly of Merit Pay
+http://www.alfiekohn.org/article/folly-merit-pay/

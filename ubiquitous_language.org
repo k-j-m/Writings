@@ -1,0 +1,73 @@
+* EPDS Ubiquitous Language
+
+What do we need to do to develop a x-site, x-specialism ubiquitous
+language for EPDS and the engine design process?
+
+
+** Identify the important concepts
+
+The deck
+
+Bids
+
+Subsystem experts
+
+Performance inputs
+
+Baselines
+
+Constraints, Objectives
+
+Multi-runs
+
+Exchange rates
+
+Design iterations
+
+Tech review
+
+Datapack
+
+Alignment
+
+Trends
+
+Data availability/quality
+
+Baseline library
+
+Data flows (both description and content)
+
+
+I'm convinced that Alan M and Ben S's value-stream map is going to be
+key to this. All of the concepts on that diagram should map directly
+on to the EPDS implementation.
+
+
+** The different domains/roles
+   
+*** EPDS Users
+
+Performance biased, Mech. Design biased, Subsystem biased,
+Grad. 'puppet' users, EPDS core team
+
+
+*** EPDS Consumers
+
+Downstream design tools
+
+Datapack producers
+
+Design decision-makers
+
+Subsystem experts - INTERESTING: they inherit the subsystem design
+produced by EPDS whether they're involved in the process or not
+
+
+*** EPDS Suppliers
+
+These are the people that supply EPDS with tools and methods. We need
+to make sure that suppliers subscribe to the same concepts as all
+other stakeholders otherwise there will be an impedence mis-match
+between different layers of the system.
+

@@ -1,0 +1,517 @@
+** Preface
+
+This is a thinking piece. The intention is to straighten out some
+of my current thoughts and to deconstruct our current
+organisation and processes so that we can rebuild them from lower
+level concepts. It would be a perfectly valid outcome to rebuild
+today's current state exactly, along with rationale that describes
+why everything is how it is.
+
+Because of this approach I'm taking (break it apart and then build it
+back up) it is going to look like I am being almost petulant in the
+way I pick arguments. My apologiees: that is just how I am choosing to
+attack the problem.
+
+
+** Introduction
+
+What is the purpose of the Organisation?
+
+1. To create an environment that allows a large number of individuals
+   to work with a common purpose to achieve results that are greater
+   than the sum of individual efforts. One hundred individuals cannot
+   build a very good bridge, but a team of one-hundred can.
+
+Is there really anything else?
+
+Focussing specifically on the operation of our department, the
+organisation provides a number of important functions.
+
+1. Salaries for salaried staff
+2. Cash for external resource (contractors, vendors) and internal
+   resource
+3. Infrastructure (office space, IT support, ...)
+4. Career progression opportunities
+5. A clear sense of purpose to engage and motivate employees
+
+I don't think that it is the purpose of the central organisation to
+provide incentives to motivate the staff. It is the job of each
+organisational unit to make sure that employees are motivated. There
+will be constraints to do with pay structure and union agreements -
+until these constraints are explicitly stated then there is such an
+asymmetric balance of information that constructive conversation
+becomes really difficult.
+
+*ACTION*: find out more about union/company relations
+
+
+** What is OUR purpose?
+
+Why was the ADRC established? It can't just be a matter of
+co-location.
+
+Part of the rationale behind the ADRC is that we want...
+
++ *greater and more controlled delivery of value to the business*
++ more productive (greater throughput of useful work)
++ agile (better able to start and change direction according to the
+  requirements of the business)
++ better able to amplify our efforts by leveraging academia and
+  outsourcing
+
+The first of these is really the king and should really be expanded
+on at length before diving into other topics. But I have other topics
+on my mind just now so I will try to get some thoughts down first
+before I lose them.
+
+All of these aspirations sit at a higher level than we can
+practically control. To make progress towards these goals we need to
+identify the different behaviours or qualities that will directly
+contribute to achieving the goals.
+
+This is an un-ordered list, and each of these bullets is a half-baked
+idea. I want to list these concepts to give a framework to
+link later ideas in to. All proposals/suggestions/critiques must link
+back to this 'list of things we need to do to move closer to the
+departments goal'
+
++ remove conflicts of interest
++ reduce organisational inertia - the ability to start up/shut down
+  projects
++ reduce project inertia - make it easier to change direction within
+  a project as the problem domain becomes better understood.
++ identify core competencies - what are the things that we need to be
+  good at today? What are the things that we need to be good at next
+  year?
++ establish a positive pressure up the learning curve - how are we
+  making sure that we are actually increasing our capability over
+  time?
++ improve information exchange at all levels - within projects,
+  between projects, amongst skill groups.
+
+
+** Appeal to intrinsic motivators
+
+Poke point: if we can't attack some organisation-wide sacred-cows
+then HPC is all just a pile of hot air.
+
+It is not OK for us to work rigidly within strict rules set by the
+central oganisation - we need much more departmental and individual
+autonomy to really make HPC fly.
+
+[QUOTE from Zen and the Art of Motorcycle Maintenance p183]
+This is a tragedy, however, only if you presume that the cart of
+civilization, 'the system,' is pulled by mules. This is a common,
+vocational, 'location' point of view, but it's not the Church [of
+Reason (a theme in the book)] attitude.
+The Church attitude is that civilization, or 'the system' or
+'society' or whatever you wasnt to call it, is best served not by
+mules but by free men. The purpose of abolishing grades and degrees
+is not to punish mules or to get rid of them but to provide an
+environment in which that mule can turn into a free man.
+[/QUTOE]
+
+This is a placeholder until I've read through /Drive/ by Daniel Pink
+
+
+** Objective setting and PDRs
+
+I have a number of criticisms of the PDR + objective setting
+process. I don't quite know how to form these in to a nice narrative
+so I'm going to start by just typing into a number of sub-headings
+and hopefully rework things from there.
+
+*** Planning for annual objectives is infeasible
+
+Requirements are volatile (assumption: this is a fundamental truth -
+any attempt to remove the volatility is mis-guided), meaning that any
+attempt to write annual objectives that relate to customer
+requirements (except in a meta-sense) is a work of fiction based on
+what we /think/ the customer/project requirements are going to be
+over the course of the year. This gives rise to two scenarios at
+either end of the spectrum. One where we stick to the process but
+try to maintain individual (and hence project) agility; another where
+we stick to the process to the letter and trade firm objectives for
+agility. 
+
+1. Annual objectives are drafted and are then updated daily to reflect
+   the new understanding of reality. We are sticking to the rules in
+   the sense that we are not changing anything retrospectively and
+   we are only ever working on things that can be traced directly to
+   our objectives. There is however a major overhead in maintaining a
+   rolling forecast of work to the end of the calendar year.
+
+2. Annual objectives are drafted at the start of the year and are not
+   changed through the course of the year. If the project
+   requirements change, then the individual cannot accommodate the
+   change because they are not in the objectives.
+
+As mentioned, these two scenarios are at the two extremes of a
+spectrum and we would never expect to see either one in practice. But
+I suggest that there is no happy medium between the two, just
+different combinations of where the same pain comes from - like
+choosing how to divide a £100 debt between your left and right
+pockets.
+
+The debt in this case is the overhead of maintaining the objectives
+as a forecast of work through the year, the pockets are whether you
+choose to pay in terms of agility or overhead in updating the
+objectives.
+
+If we stick to the rules, these are the only options. If we allow
+ourselves to break the rules then some more possibilities arise.
+
+3. Work off-plan and retrospectively change objectives.
+
+4. Work off-plan and neglect to change objectives.
+
+
+*** Individual objectives are project planning in disguise
+
+Writing down what an individual's individual contributions are going
+to be towards their respective projects - sound at all familiar?
+
+This is project planning! What are the tasks that are going to be
+carried out by the different project resources in a predicted
+timeframe. Except individuals are at a disadvantage. They do not have
+the benefit of a project-wide view on how their work is going to
+contribute to a project. Additionally, the projects have the luxury
+of being able to choose project planning timeframes to better suit
+the natural cadence of the project. There will be forces that drive
+this to align with the calendar year, but no strict
+constraints. Having the individual and project carry out similar, but
+disconnected, planning tasks is a great way to duplicate effort and
+introduce conflicts of interest where the results don't quite align.
+
+Project planning is a project activity, not an individual activity
+and absolutely not an activity that individuals should be appraised
+against. This is downright unfair.
+
+
+*** Individual objectives harm shared ownership and collaboration
+
+Having specific jobs appear in individual's objectives implies that
+every task should have a specific owner who has responsibility for
+(and can claim credit for) completing the work.
+
+If annual objectives and PDR gradings are considered important, I
+can't ask a team mate to sacrifice one of their objectives to help
+with my own. Similarly I am not incentivised to offer my own help for
+work that isn't listed in my objectives, but for which I can see
+potential benefit elsewhere.
+
+The penalty here is agility, but in the sense of preventing
+serendipitous cross-fertilization of ideas rather than project inertia
+in responding to new requirements.
+
+
+*** Traditionally written objectives do not promote risk-taking
+
+*Assertion: failure is a good thing*
+
+I'm not sure if this is a criticism more of the objective-setting
+process or of the PDR process. The gist of it is that if our /worth/
+is measured by how we weigh up against our objectives, then it pays
+to play it safe. This is completely at odds with the idea that a) we
+want to stretch ourselves to the point where failure must be an
+option, and b) we simply must experiment with new ideas if we want to
+find the big winners that actually pay off - this is the scientific
+method. 
+
+I'm quite sure of this, but these aren't yet fully formed ideas -
+search for references.
+
+We need to figure out a framework to encourage people to *safely*
+experiment and take risks.
+
+
+*** Traditionally written objectives do not promote learning and feedback
+
+What if the last 9 months of work completely depends on the outcomes
+of the first 3 months? How can that feedback be captured in the
+objectives?
+
+What if we worked with many of these feedback loops within a given
+year? I suspect that this is how a lot of people work.
+
+
+*** Why are objectives private?
+
+If there are real personal or political reasons that objectives be
+kept private then fine! Otherwise private objectives are just a
+source of crossed-wires, confusion and ulterior motives. If you can't
+declare publicly what you're working on then you shouldn't be working
+on it.
+
+This promotes a new mind-set as well that objectives are something
+that we should talk about with each other. 
+
+*I will print out my objectives and stick them on a notice-board
+in 2016.*
+
+Is this worth taking further - should objective setting be a group
+activity? Everyone in a team (team = people working towards a common
+objective) gathers together prepared with a list of the things that
+they think their objectives should be for the year. Each item goes up
+for discussion and after modification gets approved as a team-agreed
+individual objective. 
+
+
+*** PDR gradings don't add any value
+
+I seriously don't see any value in PDR gradings. Instead I will have a
+go at listing some of the proposed benefits and suggest one of three
+responses: 
+a) this goal is not served by the PDR gradings
+b) this goal should not be a goal
+c) this goal would be better served through other means
+
+
+Assertion:
+We need to recognise good performance so that we can reward it.
+
+Response:
+There is a large body of writing that suggests that individual
+merit-based reward and recognition is a harmful thing.
+
+*ABORT* read through all of these links before you continue
+
+
+*** PDR gradings dis-incentivise honest self-feedback
+
+Why would you ever encourage fair and honest feedback if it's going to
+be written down as a poor rating on your scorecard? The PDR ratings
+are there to be gamed.
+
+This is such a huge conflict of interest - I really, really, dislike
+it.
+
+
+*** PDR gradings put the emphasis on the individual rather than the system
+
+hi di ho de hum
+
+
+** Reduce Inventory of WIP
+
+There is a lot of half-finished work in the world. How can we
+identify, categorise and reduce our inventory?
+
+
+
+** Thought Experiment
+
+*QUESTION*
+What would happen if an individual refused to acknowledge the PDR
+grading system?
+
+This 'refusal to acknowledge' might be a pre-emptive refusal to
+click /accept/ any PDR gradings that are not exactly in the middle of
+the scale. Or a stronger variant would be resfusing to accept any
+gradings except the *WORST*. Or perhaps it would just be a refusal to
+click 'accept'. I think the medium-rating version is probably the
+most suitable for this discussion. The intention isn't to cause the
+system to grind to a halt, but just to stop believing in it.
+
+Would there be disciplinary action of the individual? Disciplinary
+action for management?
+
+*QUESTION*
+Would it make a difference if the individual was a consistently high
+achiever?
+
+This removes the question of motives. By accepting only medium grades
+the high-performing individual is doing themselves harm.
+
+*QUESTION*
+*Would it make a difference if they made a convincing argument that
+the reason they refuse to acknowledge the grading system is that it is
+bad for the business?*
+
+This clarifies their motives and mindset. By stating explicitly that
+they are acting for the benefit of the company (at least in their
+own mind) then it follows that within their value-system any
+disciplinary action is *against* the company. This makes it clear to
+the adversary that they have a responsibility to explain their
+actions.
+
+*QUESTION*
+What if it was an entire team that collectively agreed to stop
+believing in the grading system?
+
+*QUESTION*
+What if the team's performance measurably improved as a result?
+
+This would make a measured truth that the team's actions have been in
+the interest of the company. Either there are other benefits to
+gradings NOT related to performance, or the system should be killed.
+
+
+** A Practical Approach
+
+All of the discussion so far has been fairly destructive. It is easy
+to pick flaws with the current system, but much more difficult to
+suggest what we actually want to /do/.
+
+Here are some suggestions for modifications to the current system.
+
+
+1. Make all objectives public
+
+Why? 
+Improved communication. Fewer crossed wires. Less chance of conflicts
+of interest. Opportunity for feedback on contentious, ambiguous or
+incorrect objectives.
+
+How?
+This doesn't need any changes to the current system - all that is
+needed is to have individuals print out their own objectives and
+lay them on a table.
+
+
+2. Make objective-setting a team activity
+
+Why?
+This is an extension of the point above. The earliest possible
+opportunity for feedback is when the objectives are first being
+written.
+
+This also puts more emphasis on team objectives. What are the team
+objectives and how do the individual objectives help to support them?
+
+How?
+Have people do some homework drafting a big list of things that they
+think the project should achieve over the course of the year and then
+arrange a team meeting to carve out a small set of team/project
+objectives that everyone subscribes to. Then cycle round the room
+filling in the objectives for each individual, making sure that
+everyone agrees on the allocation of responsibilities.
+
+This doesn't need any change to the formal system. A populated list
+of objectives is a product of this exercise.
+
+
+3. Write *stable* objectives
+
+Why?
+Maintaining a projection of planned work within each individual's
+objectives incurs an overhead that must be paid in one of a few forms:
+
++ agility - the ability to change plans based on learning and
+  feedback throughout the year
+
++ effort - the effort required to update all affected individuals'
+  objectives after every change of course
+
++ compliance - to have individuals working on tasks that are not
+  listed in their objectives
+
+It should be extremely rare to have to say "yeah, we thought that was
+important but ended up rescheduling it into next year".
+
+How?
+The key to this is to *avoid any volatile specifics!* 
+
+One option is to just plainly inherit the team objectives: "Support
+the team objective to <xyz>." Another would be to write
+process-oriented objectives: "I will follow the process, yadda yadda."
+
+I'm seriously struggling to square this with the SMART view of the
+world: how can we make objectives Specific whilst also keeping them at
+a high enough level that they are suitably stable?
+
+I think one answer to this is that the objective stay at a high
+level, but to have all of the work products that contribute to the
+objective be specific and measurable.
+
+The question then becomes how to evaluate the listed work products
+against the high level objective? How do you decide if an objective
+is completed and how do you decide on a PDR rating? Answer: you
+can't. [ARGH this is so absolutely infuriating! How can we get passed
+this!? Is it just the rating system that is being difficult here or am
+I just completely fixated on it?]
+
+Changes?
+Need to agree on a means of rating high-level objectives using
+low-level metrics.
+
+*The trouble with S from SMART*
+
+This one got me thinking: why is it so hard to assign a rating to a
+high-level objective and why are we able to avoid the problem with
+the current system?
+
+The answer as I see it is that we trade one hard question for
+another, and then choose to ignore the new one.
+
+We choose not to answer the question "how to rate general high-level
+objectives" and instead replace the high-level objectives with a
+number of more-specific low-level objectives. /OK GREAT! What's the
+problem?/ Unfortunately, this sneaks in a new question that I haven't
+ever seen properly addressed: how do these specific objectives rate
+against the ultimate objective of doing your utmost to benefit the
+business?
+
+I can write some crummy objectives that I can pass with flying
+colours, but which won't really justify an overall good rating: eg "Ken will
+come in to work every day that he hasn't booked as holiday (provided
+that he isn't unwell)."
+
+Similarly I can write some objectives which would revolutionalise the
+company, winning unprecendented market share and making billions of
+pounds profit! And then flunk all of them.
+
+My performance through the year might be identical - meaning that I
+should get an identical performance rating. So someone (management?)
+still needs to make the value judgement that can arrive at the same
+performance rating from both ends of the spectrum.
+
+It is more likely that there is some sort of game that gets played
+between the manager and worker that is won by promising as little as
+is credible and then over delivering. *It is unfair to make people
+play this game! Please stop it!*
+
+To summarise my understanding of the situation:
++ it is hard to objectively rate performance against ambiguous
+  high-level objectives
++ you can avoid that difficult value judgement by instead writing
+  specific low-level objectives
++ the number and scope of low-level objectives is THE SAME VALUE
+  JUDGEMENT, except it has been cunningly pushed on to the worker
++ the company gets to use objective metrics to justify whatever
+  decisions they get used for (merit pay, hiring/firing)
++ the worker creates the stick that will be used to strike him later
+
+Something that concerns me is that the PDRs feature in the
+technologist structure by inclusion in the boarding pack
+requirements. I had previously thought that the technologist structure
+was completely solid.
+
+
+4. Avoid individual ownership of team objectives
+
+Why?
+This is a collaboration killer and we should kill it! We promote the
+idea right from the the lowest level that jobs have individual owners.
+
+How?
+I don't know! I don't know! I don't know! I don't know! I don't know!
+I don't know! I don't know! I don't know! I don't know! I don't know! 
+
+
+5. Uniformly weight the team's ratings based on project performance,
+   not individual performannce.
+
+Why?
+Encourages the team to look after the team objectives, rather than
+individuals looking after individual objectives. This is a possible
+implementation of the previous point.
+
+How?
+HOW DO YOU RATE THE PROJECT PERFORMANCE!?!?!?!?!?!? It's the same
+problems over and over and over and over again.
+
+But hold on, it's different... it pushes the problem back one step
+further up the organisation. It becomes a way of saying "Dear
+Organisation, if you don't know how to rate projects then please stop
+asking us to rate ourselves." Or something like that...

@@ -1,0 +1,92 @@
+* Architectural Policy
+
+Isight will not be used for any new development.
+
+Isight is a design search and optimisation tool. It is *not* an
+integration tool. It is crummy for integration, and far worse - it
+effectively stops us becoming better at our jobs.
+
+EPDS will not integrate any new tools that have hard dependencies on
+isight. This will include any tools/processes that:
++ rely on custom Isight components (Vanguard models, MARS models)
++ use Isight for embedded design search and optimisation
++ use Isight as the Integration environment
+
+Alternatives
+
+For tools that have used Isight as the integrating environment an
+incremental port to Python is recommended.
+
+Where embedded optimisation has been used Python comes with a number
+of optimisation libraries in the (extended) standard library
+(scipy). If these are not sufficient, then we will need to look
+broader
++ http://esa.github.io/pygmo/
++ http://platypus.readthedocs.org/en/latest/
+
+
+For tools that have a strong dependency on specific Isight
+components, this funcionality *must* be ported out of
+Isight. Preferably to Python, possibly to Java, depending on the
+specifics.
+
+
+Large Tasks
+
+** JB56 Integration
+
+** HPTD Development
+
+Remove HPTD from EPDS codebase
+Create Integrity project for HPTD
+Create data models for the inputs to the system (use epds.commons.ktraits)
+Create Integrity sub-projects for all of the nested tools within the
+HPTD system
+Create data models for the inputs to all internal tools
+Create partial data models for the outputs that are produced by all
+internal tools
+
+** Python Integration
+
+*** Data modelling
+
+We will start by explicitly typing classes using the ktraits module,
+which is a /minimal/ reimplementation of the enthought traits package.
+
+*** Component modelling
+
+All components in a workflow consume a set of input data and produce a
+set of output data. They are 1-argument functions.
+
+*** Monitoring
+
+All components will be given a 'logger' argument that can be used to
+give updates on the component's progress (imagine this as the Isight
+green box and checkered flag/red cross).
+
+*** Temporary scratch working space
+
+All components will be given a 'runtime' argument that contains
+runtime configuration information. This includes utilities for
+creating scratch working folders.
+
+*** Persistent file store
+
+If we want to persist our data we need to store it somewhere.
+
+In addition to the single input data argument there will be two
+output parameters. One for some sort of object store and a file store
+that can store files (with a wrapper class that can sit on top of the
+file store and offer an interface to the rest of the system).
+
+There are two options for persistence...
+
+Object store: if people are using a process that doesn't work with
+input/output files (eg a python plugin) then we mustn't force people
+to invent their own serialisation formats. Instead, people should
+just be able to /do/ it.
+
+File store: if people are using file-based components where the
+input/output files have some significance (eg a standard format that
+is used to interface with other people/areas of the business) then we
+mustn't lose this valuable artifact.

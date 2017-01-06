@@ -1,0 +1,249 @@
+* EPDS Compressor Surgical Team
+
+** Context
+
+asdf
+
+** A promise
+
+The whole thing is based on a mutual promise
+
+From EPDS: "trust us with your attention and we will dedicate
+ourselves to you."
+
+To EPDS: "we'll keep helping you as long as you can keep feeding us
+with useful stuff"
+
+And importantly: "As soon as our collective priorities shift we can
+go our separate ways without milestones and detailed plans causing a
+messy breakup."
+
+We want to be promiscuous but noble. Blessed with a never-ending
+series of holiday romances...
+
+* Principles
+
+** Collective progress is limited by information flow
+
+*** Turnaround time is a function of geographic & organisational distance
+
+[completely made up numbers]
+x1 inside your own head
+x10 local team-members
+x100 remote team-members
+x1000 non team-members
+
+Reaching outside of the team takes longer for a few reasons:
++ The context needs to be explained from scratch
++ The details of the problem need to be explained from scratch
++ You are subject to the other person's queues and priorities, which
+  you have no influence over
++ The other person is not committed to the team's goals
+
+*** Turnaround time is a function of utilisation
+Phoenix project chart
+'guidance system' team members don't need to be committed, but they do
+need to be available. If you can't guarantee some level of slack
+amongst important peripheral team members then you shouldn't get
+started.
+
+
+** An emergency stop button
+
+What???
+
+This is *important*. Engagement is hard to buy and delivery is our
+currency. No long-term plans, no milestones = no safety
+net. Explicitly going to the effort of making the thing easy to shut
+down gives credibility and makes it easier to start up.
+
+"Give us your attention only as long as it is mutually beneficial,
+safe in the knowledge that we can shut down at any point."
+
+Reasons to press the button
+
+_We now know enough about the problem to farm the work out rather than
+pursuing it within the Surgical Team._
+
+This makes sense in two contexts:
+1. The problem is now understood well enough that it is no longer
+   complex enough to make full benefit of the surgical team
+   approach. If you can write a fire-and-forget statement of work then
+   there is little point in keeping up the rapid feedback, high
+   engagement way of working (it takes effort, and we want to avoid
+   effort).
+2. The wrong people are in the engine room. Based on what we now know,
+   the people in the engine room are not the most appropriate for
+   doing the work and to carry on would be an unacceptably
+   inefficient use of everyone's time. Instead, either the team should
+   be reformed with a different composition, or the work should be
+   organised using other non-ST methods.
+
+
+_Stop and fix (the team, not the work itself)_
+
+A number of things that may need fixed:
++ Ineffective meetings
++ Missing important people that need to be brought in
++ Degrading meeting attendance
++ Degrading rate-of-delivery
++ Lack of clarity over current ongoing work
++ Lack of clarify over timescales, exit-strategy etc.
++ Re-prioritisation or re-scoping of work
++ Insufficient information flow
+
+
+_Situation-driven hard shutdown_
+
+For whatever reason this work has made a step-change in priority and
+can no longer be supported. We're very sorry, but we can no longer
+give the level of support needed for the team to succeed.
+
+If this is truly the case then, whilst being unfortunate, it is in
+everyone's best interest to stop the work until the conditions are
+right to start it up again.
+
+NOTE: This is *not* a device that lets you start-up/shut-down ST
+activity based on short-term fluctuations in priorities & workload. If
+you press this button then you lose your place in queue and it may be
+several months before the work can start up again. There should be
+some process in place for exploring other options before doing a hard
+shutdown: 'are you sure you want to shut down?'
+
+** Deliver useful stuff in small increments
+
+Important for the previous point. Can't stop/change course whilst
+there is a big heap of WIP that needs to be cashed in.
+
+"Commit by deliverying"
+
+"Sense and respond"
+
++ Difficult problems
++ can't predict the future
++ so don't try - sense and respond.
+
+Set a meaningful target and take small steps towards it.
+
+How have we done:
+
++ Weekly review session to establish rhythm
++ and enforce working in small batches
+
+
+** Don't overfill your plate
+
+Limit the scope of the work that you take on.
+
+How have we done:
++ Divide work into larger themes (~12 weeks work)
++ only 1 theme in progress at a time
++ *nothing* out of theme can be snuck in under the table
++ prioritised backlog of tasks making up a theme
++ no detailed planning beyond a few weeks' horizon
+
+
+** Don't wear too many hats
+
+Why?
++ Conflicts of interest
++ pulled in different directions
++ Larger scale multi-tasking
++ It takes effort to wear a hat
+  + Hat-overhead: eg regular meetings regardless of % dedication
++ Having to choose which plate to leave wobbling shouldn't be a fact
+  of life
+
+Six hats:
+1. Surgical team technical work
+2. Managing the process
+3. EPDS
+ 3.1. Development/technical work
+ 3.2. 'Scrum master' - team/process facilitation role
+ 3.3. Customer for DaVinci architecture team
+4. Personal/PDR (mid-year PDR needs to push something else off the
+   table)
+
+
+** The engine-room should be as committed as possible
+
+It is hard to achieve a rate of delivery that can sustain interest and
+engagement without resorting to long-term promises. One approach is to
+have those in the engine room take off as many hats as possible. If it
+helps, you can introduce a time-box at this point to limit the size of
+the commitment: rather than tying oneself in for an indefinite period
+of time.
+
+
+* Recommendations
+
+** Team manager
+
+Supporting role
+Serves the team
+Not a position of authority
+  Brian Epstein wasn't the boss of the beatles.
+Helps the team make good decisions
+Helps the team walk the talk
+
+
+** Published rulebook
+
+A tool to standardise the process
++ The process should be constantly evolving: the rulebook must be kept
+  in-sync (rulebook is the tail, not the dog)
+Clarifies roles/responsibilities
+Makes explicit how we think the thing should be run
+
+* References
+
+** Communication
+
+Distance Matters - Olson, Olson
+https://www.ics.uci.edu/~corps/phaseii/OlsonOlson-DistanceMatters-HCIJ.pdf
+
+Who moved my cube - Anne-Laure Fayard, HBR
+https://hbr.org/2011/07/who-moved-my-cube
+
+Distributed vs colocated agile teams: Pros and cons - Amy E. Reichert
+http://techbeacon.com/distributed-vs-colocated-agile-teams-pros-cons
+
+** Wait time
+http://www.iglc.net/Papers/Details/145/
+Find reference in the Goal
+http://www.treewhimsy.com/TECPB/Articles/SevenInsights.pdf
+https://en.wikibooks.org/wiki/Fundamentals_of_Transportation/Queueing
+http://itrevolution.com/resource-guide-for-the-phoenix-project-kanbans-part-2/
+
+** Batch sizes
+http://www.startuplessonslearned.com/2011/09/power-of-small-batches.html
+https://less.works/less/principles/queueing_theory.html
+
+
+** General reading
+https://less.works/less/principles/index.html
+
+** Videos
+Don Reinertsen, The Big Ideas Behind Lean Product Development, The
+Lean Startup Conference 2013
+https://www.youtube.com/watch?v=oyEtKpqqx_s
+
+** Books
+Managing the Design Factory - Donald Reinertsen
+https://www.amazon.co.uk/Managing-Design-Factory-Product-Developers/dp/0684839911
+
+Developing Products in Half the Time - Donald Reinertsen
+https://www.amazon.co.uk/Developing-Products-Half-Time-Business/dp/0471292524
+
+Principles of Product Development Flow - Donald Reinertsen
+https://www.amazon.co.uk/Principles-Product-Development-Flow-Generation/dp/1935401009
+
+* Images
+
+Sand hearts
+http://cdn.pcwallart.com/images/beach-sand-heart-wallpaper-3.jpg
+https://www.statravel.co.uk/travel-blog/wp-content/uploads/2013/02/Love_Storys_Hearts_620.jpg
+http://www.loscabospassport.com/wp-content/uploads/2015/06/Hearts-in-Sand.jpg
+
+
+

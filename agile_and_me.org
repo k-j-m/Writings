@@ -1,0 +1,111 @@
+* Introduction
+
+lalala
+
+
+* A project classification scheme
+
+lalala
+
+
+* A tale of two risk management approaches
+
+Regardless of how you run your project, there is one thing that you always want to do: reduce the project risk. I would like to suggest that there are two primary means through which to reduce the risk, and the choice of which one to put the emphasis on is what makes your project 'agile' or 'traditional'.
+
+Remember, in the previous section we agreed that different problems need managed in different ways and that any particular problem has a preference for how it would like to be managed. This is purely a function of where we sit in the problem space.
+
+In this section we shift the emphasis on to how the project chooses to manage the problem. The problem has a natural preference for how it is managed; the project chooses how to manage the problem.
+
+This choice is a function of both the problem itself and the organisation: skills, culture, traditions, governance processes, available resource, ...
+
+
+** The traditional approach: reduce uncertainty
+
+“By failing to prepare, you are preparing to fail.” - Benjamin Franklin
+
+The traditional approach is to try to reduce the level of uncertainty around the problem space as early as possible. The thinking here is sound: the more that we know about the problem, the less likely we are to suffer expensive changes later on in the project. It makes sense.
+
+There are two different dimensions on which we want to reduce the uncertainty: ends uncertainty and means uncertainty.
+
+Ends uncertainty creeps in when we don't know what it is that we should be building - likely because our customer either can't articulate it or just doesn't know for themselves. The standard plan of attack here is REQUIREMENTS ENGINEERING: an important topic that I will avoid going in to (mainly because I don't have the knowledge and experience to do it justice). The general idea is that one of the first phases of a project should be to capture in some detail the various requirements of the system (function and non-functional) from a number of different viewpoints so that before we dive in to the expensive development work (and making expensive irreversible decisions) we need to know with as much certainty as possible just what it is that we're going to be building.
+
+Means uncertainty comes from the fact that at the start of the project we know very little about exactly how we are going to satisfy our customer's requirements. Our approach here is to gather a group of experienced greybeards together and use their experience and judgement to produce a work-breakdown of the work that is going to be needed to solve the problem. We can go in to as much detail as we like here, possibly adding time estimates, task dependencies, and working out what skills and resources we are going to need so that we can coordinate the activity of the multitudes of different people that need to be involved.
+
+The basic intent behind both of these approaches is sound: project risk can be reduced by reducing our uncertainty at the earliest opportunity. It is up to the project to decide in what dosage to take these two medicines.
+
+There are two points that absolutely must be judged before all else:
++ How complicated is the problem? (How much uncertainty reduction can I buy with an extra unit of planning effort?)
++ How complex is the problem? (What is the upper limit for the uncertainty reduction that I can get through up front planning?)
+
+
+** The agile approach: reduce iteration cost
+
+“Ah you think uncertainty is your ally? You merely adopted uncertainty. I was born in it, molded by it. I didn't see the Gantt chart until I was already a man, by then it was nothing to me but restricting!”
+Agile Bane - adapted from The Dark Knight Rises
+
+Agile approaches take a 180 degree shift for risk management. Rather that putting the focus on reducing the size of the project uncertainty, agile approaches embrace that uncertainty as a fact of reality and learn to coexist with it by ruthlessly attacking the cost of iteration. Modular architectures mean that the effects of change can be contained within firm architectural bulkheads. Test-driven development and version control provide a safety net that catches errors early and prevents them leaking off of an individual's computer. Combining WIP limits with incremental delivery puts a hard limit on the amount of 'wrong work' that is permitted within the system. Deferring commitments reduces the number of irreversible decisions that become at-risk the moment that they are made.
+
+Interestingly we are constantly seeing a shift in this direction with engine projects as well. One of the the goals of the automated design systems that I work on is to reduce the cost of iteration of the respective components & systems that they're developed for. This reduction in iteration cost doesn't just make the design cheaper and faster, but has the potential to fundamentally change the balance of how the design process works as we will see in the next section.
+
+
+** The dilemma
+
+This all poses an interesting question: "so what's the problem?" After all, we want to reduce the level of uncertainty in the project and we also want to reduce the cost of iteration. The problem is that the two approaches are incompatible: you can optimise your processes for reduced uncertainty or you can optimise your processes for reduced cost of iteration, you can't really do both.
+
+Take detailed planning as an example (either requirements or work breakdown). The effort that goes in to this planning process is intellectual inventory that is at-risk to the extent that uncertainty still exists in the project and which only provides value if the plans can provide the information needed to make business decisions. If the context shifts and the plans need to change then re-plan effort is needed. We have reduced the level of uncertainty at the cost of increasing the cost of iteration.
+
+Additionally, if those plans are used to create commitments for the purposes of project governance (as they often are) then there is an additional expense incurred which is the cost of governance change-requests that are needed to stop the project getting an F on its report card.
+
+As with most things, there are no hard and fast rules here: if the cost of iteration is already large compared with the level of project uncertainty then the extra surcharges added on by our planning and governance processes will be relatively small. However, if the cost of iteration is very small then we are in danger of undermining our best tool for controlling the project risk. This will be shown in the next section.
+
+
+
+* Putting them in to practice
+
+Meet our model project. The horizontal axis is an 'agility index' parameter that roughly represents the proportion of change-requests that the project yields to. A score of 0% means that the plan is rigidly adhered to regardless of what the customer and development team want. A score of 100% means that every single morsel of feedback is acted on regardless of whether it is an economic choice.
+
+The blue curve represents the cost of acting on the feedback (of diverging from the plan). This is 0 at 0% agility because we're refusing to make any changes. Approaching 100% the curve flares upwards to account for the fact that the changes that we resist the longest will be those that are most uneconomical.
+
+The orange curve represents the opportunity cost incurred by /not/ making the change. At 100% this is zero because we are making all possible changes asked of us. Approaching 0% the curve flares upwards as we're refusing to make even the most economically sensible change-requests.
+
+The yellow curve is the sum total of both orange and blue curves representing the level of risk exposure for the project.
+
+One of the first things to note is that the project has a preference. In the case where the opportunity cost and cost of change are roughly balanced the project wants to be middling-agile, somewhere around 50%. If we make the cost of change 5x larger than the opportunity cost (representing a high cost of iteration on the project) then the project's natural preference shifts dramatically to the right. If we make the cost of change 5x smaller then the project's preference shifts to the left.
+
+Each problem has an optimal level of agility that is completely a function of the problem-space and is unrelated to the organisational preferences. The organisation makes a decision and imposes its will on the project.
+
+In this section we are going to look at the two risk reduction techniques for 4 different hypothetical projects:
++ high cost of iteration, low complexity
++ high cost of iteration, high complexity
++ low cost of iteration, low complexity
++ low cost of iteration, high complexity
+
+The model parameters are as follows:
+high cost of iteration: 5x baseline
+low cost of iteration: 0.2x baseline
+high complexity: 50% uncertainty remaining after planning
+low complexity: 20% uncertainty remaining after planning
+cost of replan: (0.4 * baseline risk * agility) added to cost of change
+governance surcharge: (0.4 * baseline risk * agility) added to cost of change
+
+
+** Risk reduction on a low cost of change project
+
+Let us look at the change in the model when we try to apply planning based methods to a low cost of iteration problem.
+
+Looking at the ideal case where plan-based approaches have no impact on the COI we can see that by reducing the project uncertainty by a whopping 80% we have reduced the project risk from 0.5 to ~0.3: a respectable improvement. 
+
+But when we add on an extra penalty to the COI the reduction in risk is smaller: from 0.5 to 0.4. All of our planning effort buys us a 20% reduction in risk.
+
+Next, let's see the what happens when we transition from a simple to a complex problem. For the complex problems our plan-based approach only yields a 50% reduction in uncertainty rather than 80% for a simple problem. In this case our project risk has actually increased from 0.5 to 0.57 because the increase in COI outweighs the benefit of the 50% reduction in uncertainty.
+
+To further labour the point, when we add on an additional penalty for the cost of change-requests incurred through plan-oriented project governance the situation gets worse, with the project risk further increasing to 0.7 -> our naively applied risk management strategy has increased project risk by 40%. Whoops.
+
+Compare this with the effect that we get by improving our cost of iteration by a factor of 2 with no change to the project uncertainty. The project risk reduces from 0.5 to 0.275.
+
+
+** Risk reduction on a high cost of change project
+
+Now if we apply the same approach to a problem with a high COI we can see the opposite trends. The most effective means for reducing the level of project risk is by focusing attention on the project uncertainty. A two-fold reduction in COI has comparatively little impact, primarily because a relatively large number divided by two is still a relatively large number and it is the asymmetry between the uncertainty and the cost of change that drives change in the overall level of risk.
+
+In the first example of a simple problem we can see that by using our 80% uncertainty-reducing planning process to reduce the overall level of risk by ~80% whilst simultaneously driving the agility index close to 0%.

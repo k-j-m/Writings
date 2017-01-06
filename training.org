@@ -1,0 +1,91 @@
+Training and development is important. The phrase "people are our
+most important asset" is repeated to the point of cliche.
+
+* Agreement points
+
+There should be lots of things that we all completely agree
+on. Spending some time talking about these should give some degree of
+shared understanding.
+
++ Different stakeholders
+  + Projects
+  + Customers
+  + Resource managers
+
+
++ Different priorities
+  + Project delivery
+  + Resource group capability
+  + Individual development (inc. career progression)
+
+
++ Different timescales
+  + Long-term
+  + Short-term
+
+
+* Discussion points
+
+ 
+** 'Projects' are where the rubber hits the road
+
+Live projects can act as a device for the following:
++ Highlighting immediate capability gaps that we need plugged
++ Providing an opportunity for real practice of new skills
+
+A capability without a project to use it on is almost worthless. If
+you consider the fact that it may well have been learned at the
+expense of a more immediately useful skill then it actually comes out
+as a let loss. Pegging learning+development against real project needs
+is an antidote against building up an inventory of skills that never
+get used.
+
+
+** If you make small steps without a sense of direction you just end up lost
+
+There is a lot to be said for the power of small steps, but there is a
+real risk that you end up walking for miles in the wrong direction.
+
+Similarly, if we continuously change tack and focus exclusively on
+short term development needs without a broader strategy/direction then
+we will end up with a mish-mash set of skills that leave nobody
+satisfied: the projects, the resource groups or the people.
+
+
+** The learning topics are up for negotiation
+
+
+
+** The 'amount' of learning is the project's responsibility
+
+Paraphrase: Josh, Akin, Wellborn
+
+
+** The 'amount' of learning is the resource manager's responsibility
+
+Paraphrase: Peter, Roland
+
+
+
+
+
+** The 'amount' of learning is the team's responsibility
+
+Paraphrase: Amit, Andy, Ken, Michel, Philipp, Steve
+
+The team is responsible for sustainable delivery in line with the
+project's priorities and timescales. This includes non value-add but
+necessary tasks such as refactoring, developer documentation and
+training! Neither the project, nor the resource manager has the
+authority to dictate more/less time spent training.
+
+*However*, with freedom comes responsibility. The team must be able to
+describe the level of overhead spent on training & development and
+should be able to describe the decision-making process used to keep
+this in balance. All stakeholders have a responsibility to keep the
+development team accountable and to make sure that this process is
+functioning properly.
+
+If the development team chooses, they may delegate this responsibility
+back up the organisation.
+

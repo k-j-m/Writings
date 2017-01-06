@@ -1,0 +1,339 @@
+I've been thinking a lot about the PDR process and performance
+management over the past year or so and I find that I keep falling in
+to a negativity-trap, pointing out all of the negative aspects whilst
+making exasperated noises. I'm going to try and approach things
+differently here, taking a more generative approach with the goal of
+hopefully coming up with some real suggestions for how we can make the
+process work well in a team-oriented and people-focussed environment.
+
+ 
+
+Part of my frustration with the whole process is that I truly believe
+that the PDR process is an enormously powerful tool for driving
+behaviours (it sets out the 'contract' for how every single person in
+the organisation is to act over the course of the year), yet there is
+the real risk that the behaviours that it encourages are counter to
+what we are being told to do via HPC. It feels a bit nasty to ask the
+individual to change behaviour without simultaneously making a clear
+and visible assault on the systems that drive those behaviours. It's
+like being told to eat healthily whilst simultaneously being force-fed
+jam doughnuts.
+
+ 
+
+So what behaviours do we want? Well, here are the 4 headings from the
+HPC culture overview poster:
+
+http://www.infocentre.rolls-royce.com/hpc/documents/culture_overview.pdf
+
+ 
+
+· Deliver success to our customer
+
+· Drive for excellence
+
+· Be one global team
+
+· Think big and make a difference
+
+
+** Deliver success to our customer
+
+"Truly understand how our customers define success and the part we
+play."
+
+"Take end-to-end accountability for the customer experience."
+
+"Commit to delivering excellent service."
+
+ 
+
+In order to have objectives aligned with delivering success to our
+customer you first need to know who your customer is - and possibly
+your customer's customer, and your customer's customer's customer…
+basically you need to be able to see as far up the value-stream as is
+necessary to influence your behaviour, and those customers should be
+explicitly called out in your objectives.
+
+
+Any performance measurement must be related to customer satisfaction
+otherwise it is measurement for measurement's sake. If any aspects of
+our work are measured and graded that are not directly related to the
+customer then it needs to be recognised as being a proxy for customer
+satisfaction.
+
+
+But how to realise this in practice? One approach would be for the
+customer to be explicitly called out in all success measures - a
+technical objective with no customer attached to it is meaningless. If
+the customer is closely aligned with the metric: great. If the
+customer is a layer or two removed then that becomes a visible You
+should always be able to answer the question "if I dropped this
+objective and surfed the internet instead, who would care?" If the
+answer is simply "my manager" then it is a bum objective.
+
+
+With regards to accountability and delivery, I take it to mean that
+the objectives cannot be written in a way that protects you from the
+pain of the customer. The objectives should make you vulnerable and
+dependent on your customer, much as they are dependent on you to
+provide the service that they need.
+
+
+** Drive for excellence
+
+"Make sure quality is built in from the beginning and is the bedrock
+of all we do."
+
+"Demonstrate great pride in our technology, products and our
+services."
+
+"Display passion for continuous improvement - every day."
+
+
+In order to drive for excellence you first need to be creative in
+laying out a vision for what 'excellence' looks like. This vision
+allows you to set targets that provide the creative tension that is so
+crucial for driving personal and organisational improvement.
+
+ 
+
+Fear of gradings must not get in the way of setting scary targets. For
+a target to be useful we need to not know how we are going to achieve
+it at the outset - it is this gap between current reality and desired
+future that drives creative thought. If the target is too easy then we
+are not motivated, if the target is too hard then we become
+disillusioned, there needs to be a Goldilocks-like balance that takes
+a lot of judgement and experience to get right. A corollary to this is
+that if someone were to achieve the best or worst possible grading on
+a goal/target then it reflects more on the target-setting than on the
+individual.
+
+
+
+Because of this, I'm tempted to suggest that the setting and
+maintenance of ungraded stretch targets should be an objective
+itself. Maybe we can introduce some more structure to the process:
+target setting, maintenance (keeping things up to date as reality
+changes), reflection.
+
+ 
+
+** Be one global team
+
+"Work seamlessly across SCUs, Functions and Customer Interfaces."
+
+"Work collaboratively with our suppliers in order to serve our
+customers."
+
+"Communicate openly and consistently with the whole team."
+
+"Understand how well we perform when we work together."
+
+
+Being 'one team' implies a number of things, such as shared purpose,
+trust, mutual dependence and submitting yourself to the collective
+good.
+
+If shared purpose is important (it is) then groups/teams must have
+common high-level goals in their objectives, even if the lower-level
+individual details vary from person to person. At any point in time
+you should be able to look at your objectives and answer the question
+"do these low-level objectives align with this high-level
+goal". Taking this a step further, I would suggest that every single
+person who shares that goal should be able to say the same of your
+objectives, possibly to the point where anyone should have the power
+of veto over anyone else's objectives: "I don't think that objective
+is relevant to our goal any more, can we re-phrase it to reflect
+current priorities?"
+
+ 
+
+I suppose that this leads on to a general principle: objective setting
+is a team sport.
+
+ 
+
+This suggests that if we want to have collective oversight of
+goals/objectives then we need to have collaborative review sessions.
+
+ 
+
+Think big and make a difference
+
+ 
+
+I couldn't find any nice sound-bites to go along with this one, but I
+interpret it to mean something along the lines of "accept as much
+responsibility as you can". We should all be responsible for the
+processes we follow, for the environment that we work in and for our
+relationships with customers & suppliers. We are not employed just to
+'do a job', but rather to make effective use of our own creativity to
+solve difficult business problems, because the work we do is too
+complex to afford the luxury of clear unambiguous objectives laid out
+at the start of the year that tell us what to do to be successful.
+
+ 
+
+** Some traps to avoid
+
+There are a number of booby-traps to avoid in objective-setting that I
+want to briefly call out before jumping in to solution mode.
+
+
+Objectives should not constrain project priorities.
+
+Projects must have the freedom and flexibility to churn their own
+priorities and timescales as more is learned about the project. A
+poorly written objective can serve as an anchor that slows the
+project's ability to change direction. Even having to go into workday
+and update some wording is inertia that we would like to avoid.
+
+
+Example:
+
+"Ken will implement feature <x> by the end of July"
+
+What if feature <x> isn't high on the list of customer priorities when
+July comes around?
+
+
+Objectives should detail the 'what' and 'why', but not the 'how'.
+
+Going in to detail on how any objectives are to be achieved starts to
+become detailed project-planning in miniature. It pre-supposes that we
+are qualified to know how the thing is to be achieved, which is
+unlikely when we're planning a year out. It also focuses attention
+away from the true purpose of the objective and if the context changes
+throughout the year can give rise to a conflict of interest where the
+detail of the objective goes against the purpose.
+
+
+Example:
+
+"Ken will migrate our bug database to the new system"
+
+What if we learn that the new system is incompatible with some
+specific project requirements and we need to take a different
+direction?
+
+
+* A framework for implementing HPC objectives
+
+What follows is my first attempt at detailing a framework that lets
+us use the PDR system in a way that avoids many of the potential
+pit-falls.
+
+
+** A small number of project or team delivery-oriented KPIs
+
+These will be shared by all members of the project and a single
+grading will be applied to all team members. These project-level KPIs
+will be the sole grading criteria since all other activity should be
+in the service of these KPIs.
+
+
+** A small number of project/team reflective KPIs
+
+Navel-gazing is important. It is the means to make sure that we are
+following our principles and that the long term growth of the team is
+going in the right direction. Purely delivery-based measurement gives
+rise to the risk of short-termism. Reflection is the antidote to make
+sure that the team remains healthy in the longer term.
+
+There is a caveat here though - all of these reflective KPIs must be
+somehow pegged against longer term delivery topics to make sure that
+they remain grounded in reality rather than becoming a purely
+intellectual game.
+
+
+** A graded objective to maintain a list of team and individual targets
+
+OK, adding this one in goes against the previous point, but is worth
+adding as a graded objective purely because of the freedom it affords
+for setting agressive goals without the risk of being clobbered come
+PDR-time.
+
+The purpose of this is two-fold. Firstly, to drive behaviour for
+continuous improvement. The whole target-state terminology is pinched
+from Mike Rother's 'Toyota Kata'.
+
+Secondly, it is to promote accountability. This becomes our record of
+all of the cool stuff that we have tried to do over the year. Some of
+the things will work and pay off, other times perhaps a gamble won't
+work and will look like a failure - *that is OK*. We want to encourage
+controlled, disciplined risk-taking and experiments. /However/ if we
+come to grading-time and our record shows a string shoddy,
+ill-disciplined and reckless gambles then there is grounds for a poor
+grade.
+
+
+
+** A standard structure for targets
+
+A good target statement needs a number of key ingredients.
+
++ A description of the current state
++ A description of the target state
++ A description of the benefits of the desired target state
++ A means for measuring the attainment of the target
+
+
+** Group ownership of all project-related objectives
+
+Any individual's objectives that relate to a project belong to
+everyone that has a stake in the outcome of the project (most notably
+everyone whose gradings are now pegged against the project's
+KPIs). The collective group must be empowered to (re-)negotiate any
+individual objectives at any point.
+
+
+** Rolling group objective-setting
+
+We are all intelligent, well-educated, creative professionals and are
+all motivated to work hard at the difficult problems that we face
+every day of our jobs. The only reason that anyone should feel under
+pressure come PDR season is if they haven't been given suitable
+support throughout the year - it is a sign of systemic failure, not
+individual failure.
+
+The idea of self-managing teams gives a potential solution.
+
+A regular session can be set up - every 2 months, say - with the
+following agenda:
+
+Review the status of the project's KPIs that everyone in the room
+should have a stake in.
+
+Review any pending risks to those KPIs.
+
+Review the state of any group targets that are being tracked, paying
+closer attention to those with key dates looming.
+
+Review the state of all targets with individual ownership and take
+collective responsibility for helping get any slipping/poorly tracked
+targets back on track.
+
+Open dialogue on any individual pain points (including non-group
+objectives that are still within the group's sphere of influence).
+
+I don't know how much time this session would call for - that will
+come with experience.
+
+The great hope here is that if we can use the PDR system as an
+every-day project management tool we can a) get some value out of the
+thing, b) it /just happens/ on an ongoing basis and c) rather than
+being a divisive, solitary experience it becomes an inclusive,
+generative process that grows the team instead of isolating the
+individual.
+
+
+
+* Notes
+
+** 04 Dec 2016
+
+How to reconcile the fact that there is a risk that individuals be held to higher standards than projects are in terms of performance metrics?
+
+If we can't define performance in project-level terms then we are forcing the individuals within the project to seek out a local optimum.
+
